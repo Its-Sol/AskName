@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+Author: Sol medeiros de faria
+Pronouns: It/Its
+Date: 2024, after password manager project
+Project name: AskName
+Purpose: Get name from user and print it to a command line without using scanf, cuz it's unsafe
+*/
+
 int main()
 {
     char name[25];
